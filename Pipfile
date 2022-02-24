@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+click = "*"
+boto3 = "*"
+loguru = "*"
+python-dotenv = "*"
+
+[dev-packages]
+black = "*"
+boto3-stubs = {extras = ["sts"], version = "*"}
+botocore = "*"
+mypy-boto3-builder = "*"
+
+[requires]
+python_version = "3.9"

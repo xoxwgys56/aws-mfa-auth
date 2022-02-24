@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "~/.local/share/virtualenvs/aws-mfa-auth-ZuqBlfA5/bin/python3",
+    "editor.formatOnSave": true,
+    "python.formatting.blackPath": "~/.local/share/virtualenvs/aws-mfa-auth-ZuqBlfA5/bin/black"
+  }
+  
